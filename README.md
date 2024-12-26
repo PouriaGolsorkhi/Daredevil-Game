@@ -1,6 +1,8 @@
 # Daredevil-Game
-A fan-made 2D game featuring Daredevil and his rogues gallery. Made with Unity and by me. 
+A fan-made 2D game that I've developed which features Daredevil fighting his rogues gallery. 
 
-You can download both exported game file and the source code from this repository.
+The game has been developed on Unity and it's meant for PC.
+
+You can download the exported game file as well as the source codes from this repository.
 
 I hope you enjoy!
